@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #121212;
+    color: #f0f0f0;
+    line-height: 1.6;
+  }
+  
+  header {
+    background-color: #1f1f1f;
+    text-align: center;
+    padding: 2rem;
+    border-bottom: 2px solid #333;
+  }
+  
+  header h1 {
+    margin-bottom: 0.5rem;
+    font-size: 2.5rem;
+  }
+  
+  .hobby {
+    padding: 2rem;
+    margin: 1rem;
+    background-color: #1a1a1a;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.05);
+  }
+  
+  .hobby h2 {
+    color: #ffa500;
+  }
+  
+  .hobby img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 1rem;
+    border-radius: 8px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #1f1f1f;
+    color: #999;
+    font-size: 0.9rem;
+    border-top: 2px solid #333;
+  }
+
+  img {
+    display: block;
+    margin: 1rem auto;
+    max-width: 200px;     /* Set a fixed maximum width */
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #0005;
+  }
+  
+  
+  
